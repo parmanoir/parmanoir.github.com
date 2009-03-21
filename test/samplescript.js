@@ -1,0 +1,1 @@
+document.write('<span style="font-size: 10%">from script ' + (new Date) + '</span>')
